@@ -1,0 +1,101 @@
+C:\Users\Rysik5318\source\repos\Settag\Settag\obj\Debug\Settag.csproj.AssemblyReference.cache
+C:\Users\Rysik5318\source\repos\Settag\Settag\obj\Debug\Settag.csproj.CoreCompileInputs.cache
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Settag.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Settag.pdb
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\AmplifyBloom.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Assembly-CSharp-Publicized.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\CloudflareSolverRe.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\CommandSystem.Core.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\DissonanceVoip.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Exiled.API.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Exiled.Events.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Exiled.Permissions.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Facepunch.Steamworks.Win64.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Mirror.Components.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Mirror.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Mono.Data.Sqlite.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Mono.Nat.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Mono.Posix.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Mono.Security.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Mono.WebBrowser.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\NorthwoodLib.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Unity.Timeline.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.InputLegacyModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.UI.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\Unity.Postprocessing.Runtime.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\zxing.unity.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\sc.posteffects.runtime.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\System.Memory.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\System.Buffers.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\0Harmony.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\YamlDotNet.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.TextCoreModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.DSPGraphModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.AndroidJNIModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.VFXModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.SubsystemsModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\obj\Debug\Settag.csproj.CopyComplete
+C:\Users\Rysik5318\source\repos\Settag\Settag\obj\Debug\Settag.dll
+C:\Users\Rysik5318\source\repos\Settag\Settag\obj\Debug\Settag.pdb
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\bin\Debug\Settag.dll
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\bin\Debug\Settag.pdb
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\obj\Debug\Settag.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\obj\Debug\Settag.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\obj\Debug\Settag.csproj.CopyComplete
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\obj\Debug\Settag.dll
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\obj\Debug\Settag.pdb
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\bin\Debug\System.Memory.dll
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\bin\Debug\System.Buffers.dll
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\bin\Debug\System.Numerics.Vectors.dll

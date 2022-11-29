@@ -1,0 +1,2 @@
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\obj\Release\Settag.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Новая папка (2)\Settag\obj\Release\Settag.csproj.CoreCompileInputs.cache
