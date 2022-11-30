@@ -1,10 +1,10 @@
 ### SetTag
 
-Всем привет! Мы написали плагин на установление кастомного тега при помощи команд!<br>
-Планируется:<br>
-Менять цвет тега 100/100%<br>
-Разноцветный тег 0/100%<br>
-Выбор цветов для радужного префикса 0/100% <br>
+Hi all! We wrote an addition to the installed custom tag using the command!<br>
+Planned:<br>
+Change tag color 100/100%<br>
+Colorful tag 0/100%<br>
+Select colors for rainbow prefix 0/100%<br>
 ### Commands
 ```yml
 setrank (player id or "*" or "all") (rank name)
