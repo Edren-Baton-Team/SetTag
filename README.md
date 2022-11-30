@@ -5,6 +5,13 @@
 Менять цвет тега 100/100%<br>
 Разноцветный тег 0/100%<br>
 Выбор цветов для радужного префикса 0/100% <br>
+### Commands
+```yml
+setrank (player id or "*" or "all") (rank name)
+```
+```yml
+setcolor (player id or "*" or "all") (rank color)
+```
 
 Defualt config:
 ```yml 
