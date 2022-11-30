@@ -17,6 +17,8 @@ namespace SetTag.Commands
         {
             try
             {
+                Plugin.Config Config = Plugin.Plugin.Singleton.Config;
+
                 if (!sender.CheckPermission("settag.settagcolor")) {
                     response = "You don't have permission to execute this command. If you believe this is an error, please DM the server's admin. Required permission: \"settag.settagcolor\"";
                     return false;
@@ -27,7 +29,16 @@ namespace SetTag.Commands
                     return false;
                 }
 
-                string newRankColor = arguments.At(1);
+                string newRankColor = arguments.At(1).ToLower();
+                if (!Config.AllowedColors.Contains(newRankColor))
+                {
+                    response = $"This color does not exist or is restricted!\nAll available colors: ";
+                    foreach (string allowedColor in Config.AllowedColors)
+                        response += $"{allowedColor}, ";
+                    response = response.Substring(0, response.Count() - 2) + '.';
+                    return false;
+                }
+
                 switch (arguments.At(0)) {
                     case "*":
                     case "all":
@@ -35,17 +46,22 @@ namespace SetTag.Commands
                         {
                             target.RankColor = newRankColor;
                         }
-                        response = $"<color=#{newRankColor}>{Player.List.Count()} players were issued <b>{newRankColor}</b> rank color</color>";
+                        response = $"{Player.List.Count()} players were issued <b>{newRankColor}</b> rank color";
                         return true;
                     default:
                         Player singleTarget = Player.Get(arguments.At(0));
+                        if (singleTarget is null)
+                        {
+                            response = $"This player does not exist! Please enter a valid id or a nickname.\nUsage: {SetColorCommandUsage}\nExample: setcolor 2 red <i>or</i> setcolor sanes green";
+                            return false;
+                        }
                         singleTarget.RankColor = newRankColor;
-                        response = $"<color=#{newRankColor}>Player {singleTarget.Nickname} was issued <b>{newRankColor}</b> rank color</color>";
+                        response = $"Player {singleTarget.Nickname} was issued <b>{newRankColor}</b> rank color";
                         return true;
                 }
             }
-            catch(Exception e) {
-                response = $"Something went wrong when executing the command!\nUsage: {SetColorCommandUsage}\nError: {e}";
+            catch {
+                response = $"Something went wrong when executing the command!\nUsage: {SetColorCommandUsage}\nExample: setcolor 2 red <i>or</i> setcolor sanes green";
                 return false;
             }
         }

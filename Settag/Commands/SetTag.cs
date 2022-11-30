@@ -38,13 +38,18 @@ namespace SetTag.Commands
 
                     default:
                         Player singleTarget = Player.Get(arguments.At(0));
+                        if (singleTarget is null)
+                        {
+                            response = $"This player does not exist! Please enter a valid id or a nickname.\nUsage: {SetRankCommandUsage}\nExample: setrank 2 cum master <i>or</i> setcolor sanes among us";
+                            return false;
+                        }
                         singleTarget.RankName = newRankName;
                         response = $"<color=#{newRankName}>Player {singleTarget.Nickname} was issued <b>{newRankName}</b> rank name</color>";
                         return true;
                 }
             }
-            catch (Exception e) {
-                response = $"Something went wrong when executing the command!\nUsage: {SetRankCommandUsage}\nError: {e}";
+            catch {
+                response = $"Something went wrong when executing the command!\nUsage: {SetRankCommandUsage}\nExample: setcolor 2 cum master <i>or</i> setcolor sanes among us";
                 return false;
             }
         }
